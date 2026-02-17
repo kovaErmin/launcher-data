@@ -1,0 +1,12 @@
+{
+  "launcher_version": "1.0",
+  "message": "Dobrodosao u Kova Games!",
+  "games": [
+    {
+      "name": "Snake",
+      "version": "1.0",
+      "url": "OVDJE_IDE_LINK_SA_DRIVEA",
+      "run_command": "java -jar Snake.jar"
+    }
+  ]
+}
