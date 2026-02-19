@@ -5,8 +5,8 @@
   "games": [
     {
       "name": "Snake",
-      "version": "1.0",
-      "url": "https://https://github.com/kovaErmin/launcher-data/releases/download/Snake_V1.0/Snake.zip",
+      "version": "1.1",
+      "url": "https://https://github.com/kovaErmin/launcher-data/releases/download/Snake_v1.1/Snake.zip",
       "run_command": "java -jar Snake.jar"
     }
   ]
