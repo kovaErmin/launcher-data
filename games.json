@@ -7,7 +7,7 @@
       "name": "Snake",
       "version": "1.0",
       "url": "https://github.com/kovaErmin/launcher-data/releases/download/Snake_v1.1/Snake.zip",
-      "run_command": "..\\..\\jre\\bin\\java.exe -jar Snake.jar"
+      "run_command": "java -jar Snake.jar"
     }
   ]
 }
